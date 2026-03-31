@@ -10,7 +10,7 @@ I am **Ravindra Yadav**, a passionate developer focused on building impactful pr
 - 🔭 Currently building projects to strengthen my development skills  
 - 📚 Learning **Data Structures & Algorithms** and **Web Development**  
 - 🎯 Working towards becoming a **GitHub Campus Expert**  
-- ⚡ Exploring **JavaScript** and **React**  
+- ⚡ Exploring **Docker** and **Next Js**  
 - 🌱 Always curious about creativity, innovation, and learning  
 - 👨‍💻 Pronouns: He/Him  
 
