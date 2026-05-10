@@ -36,7 +36,7 @@ I am **Ravindra Yadav**, a passionate developer focused on building impactful pr
 <br>
 <br>
   
-  <img src="https://raw.githubusercontent.com/ravindra-y/ravindra-y/main/octocat.png" width="200" align="left"/>
+  <img src="https://raw.githubusercontent.com/ravindra-y/ravindra-y/main/Octo Uchiha.png" width="400" align="left"/>
 
 <b>🚀 Let's Contribute Together!</b>
 
